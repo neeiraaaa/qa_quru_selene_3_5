@@ -40,14 +40,3 @@ def test_form():
         'Москва',
         'Haryana Karnal'
     ))
-
-
-
-
-
-
-
-
-
-
-
